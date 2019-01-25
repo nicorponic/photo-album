@@ -1,13 +1,13 @@
 {
-  "main.css": "/doglist/static/css/main.e7889522.chunk.css",
-  "main.js": "/doglist/static/js/main.63e2054b.chunk.js",
-  "main.js.map": "/doglist/static/js/main.63e2054b.chunk.js.map",
-  "static/js/1.80cc6f04.chunk.js": "/doglist/static/js/1.80cc6f04.chunk.js",
-  "static/js/1.80cc6f04.chunk.js.map": "/doglist/static/js/1.80cc6f04.chunk.js.map",
-  "runtime~main.js": "/doglist/static/js/runtime~main.c8f99291.js",
-  "runtime~main.js.map": "/doglist/static/js/runtime~main.c8f99291.js.map",
-  "static/css/main.e7889522.chunk.css.map": "/doglist/static/css/main.e7889522.chunk.css.map",
-  "index.html": "/doglist/index.html",
-  "precache-manifest.e0f78e471059ab921b892563b2197f45.js": "/doglist/precache-manifest.e0f78e471059ab921b892563b2197f45.js",
-  "service-worker.js": "/doglist/service-worker.js"
+  "main.css": "/photo-album/static/css/main.e7889522.chunk.css",
+  "main.js": "/photo-album/static/js/main.624f7cff.chunk.js",
+  "main.js.map": "/photo-album/static/js/main.624f7cff.chunk.js.map",
+  "static/js/1.80cc6f04.chunk.js": "/photo-album/static/js/1.80cc6f04.chunk.js",
+  "static/js/1.80cc6f04.chunk.js.map": "/photo-album/static/js/1.80cc6f04.chunk.js.map",
+  "runtime~main.js": "/photo-album/static/js/runtime~main.a127a3d9.js",
+  "runtime~main.js.map": "/photo-album/static/js/runtime~main.a127a3d9.js.map",
+  "static/css/main.e7889522.chunk.css.map": "/photo-album/static/css/main.e7889522.chunk.css.map",
+  "index.html": "/photo-album/index.html",
+  "precache-manifest.6985b7c400de15bcba849a6b6ef50893.js": "/photo-album/precache-manifest.6985b7c400de15bcba849a6b6ef50893.js",
+  "service-worker.js": "/photo-album/service-worker.js"
 }
